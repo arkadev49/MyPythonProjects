@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Main Menu</title>
+</head>
+<body>
+<h2>Welcome to HyperJob!</h2>
+<div>
+    <a href="/login">Log In</a>
+    <a href="/signup">Sign Up</a>
+    <a href="/vacancies">Vacancies List</a>
+    <a href="/resumes">Resumes List</a>
+    <a href="/home">Personal Profile</a>
+</div>
+<div>
+    {% if auth %}
+    <a href="/logout">Logout</a>
+    {% endif %}
+</div>
+</body>
+</html>

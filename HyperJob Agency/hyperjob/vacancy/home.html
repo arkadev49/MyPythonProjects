@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home : Profile</title>
+</head>
+<body>
+{% csrf_token %}
+{% if auth %}
+{% if is_staff %}
+<a href="/vacancy/new"> Create a New Vacancy </a>
+{% endif %}
+<a href="/resume/new"> Create a New Vacancy </a>
+{% endif %}
+</body>
+</html>

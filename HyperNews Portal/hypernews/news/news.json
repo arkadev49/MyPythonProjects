@@ -1,0 +1,62 @@
+[
+    {
+        "created": "2020-02-09 14:15:10",
+        "text": "Text of the news 1",
+        "title": "News 1",
+        "link": 1
+    },
+    {
+        "created": "2020-02-10 14:15:10",
+        "text": "Text of the news 2",
+        "title": "News 2",
+        "link": 2
+    },
+    {
+        "created": "2020-02-09 16:15:10",
+        "text": "Text of the news 3",
+        "title": "News 3",
+        "link": 3
+    },
+    {
+        "created": "2020-10-23 13:40:28",
+        "text": "This is a test field. nothing to be serious",
+        "title": "News in Future",
+        "link": 3976378
+    },
+    {
+        "created": "2020-10-23 13:41:12",
+        "text": "OMG. Its really creating a new feed of news. Cant belive it.",
+        "title": "OMG, I love this",
+        "link": 4945355
+    },
+    {
+        "created": "2020-10-23 13:42:53",
+        "text": "This is the last test news I will do.",
+        "title": "Last news of today",
+        "link": 3265947
+    },
+    {
+        "created": "2020-10-23 14:50:38",
+        "text": "This is a test field. nothing to be serious",
+        "title": "News in Future",
+        "link": 8112040
+    },
+    {
+        "created": "2020-10-23 17:01:15",
+        "text": "This is a new news article",
+        "title": "A New News",
+        "link": 9007350
+    },
+    {
+        "created": "2020-10-23 17:18:58",
+        "text": "Touch me like you do",
+        "title": "Love me Like You Do",
+        "link": 5985454
+    },
+    {
+        "created": "2020-10-23 17:19:31",
+        "text": "Oh fuck.. really",
+        "title": "OMG, the search is working",
+        "link": 8547932
+    }
+]
